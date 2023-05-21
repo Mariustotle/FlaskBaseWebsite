@@ -12,7 +12,7 @@ Description | Location
 ------------- | -------------
 Live Website | https://web-example.herokuapp.com
 Project Wiki | https://github.com/Mariustotle/FlaskBaseWebsite/wiki
-
+Project Board | https://github.com/orgs/Mariustotle/projects/1
 
 
 ## Landscape
