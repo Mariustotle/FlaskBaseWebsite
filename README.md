@@ -17,6 +17,9 @@ This is the baseline web project, the goal with this spike/tech stack is:
 ## CI/CD
 - Github Actions
 
+
+[![CI/CD Pipeline](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml/badge.svg)](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml)
+
 ## Certificates
 - [Namecheap](https://www.namecheap.com) (Domain Registrar)
 - ACME Cert Provider (LetsEncrypt)
@@ -24,3 +27,7 @@ This is the baseline web project, the goal with this spike/tech stack is:
 
 ## Hosting
 - [Heroku](https://dashboard.heroku.com) (Run many small experimental projects for fixed fee)
+
+
+
+
