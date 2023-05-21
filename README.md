@@ -7,30 +7,21 @@ This is the baseline web project, the goal with this spike/tech stack is:
 Description | Location
 ------------- | -------------
 Live Website | https://web-example.herokuapp.com
-Git Repo | https://github.com/Mariustotle/FlaskBaseWebsite.git
-Original Web Template | https://appseed.us/product/material-kit/flas
+Project Wiki | https://github.com/Mariustotle/FlaskBaseWebsite/wiki
 
-## Source Code
-- GitHub (Paid personal team for all projects, flat monthly rate for private repo's)
 
-## Database (ORM)
-- SQL Alchemy (SQLLite and PostgreSQL)
-- Code Migrations
 
-## CI/CD
-- Github Actions
+## Landscape
+- Flask Website (using [AppSeed Material Template](https://appseed.us/product/material-kit/flask))
+- Using SQLAlchemy (SQLite | PostgreSQL)
+- [Github](https://github.com/Mariustotle/FlaskBaseWebsite.git) as Source Control
+- [Github Actions](https://github.com/Mariustotle/FlaskBaseWebsite/actions) (CI/CD)
+- [Namecheap](https://www.namecheap.com) (Domain Registrar)
+- [Certifytheweb](https://certifytheweb.com) + [ZeroSSL](https://app.zerossl.com) (Cert Automation)
+- [Heroku](https://dashboard.heroku.com) (Hosting)
 
 
 [![CI/CD Pipeline](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml/badge.svg)](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml)
-
-## Certificates
-- [Namecheap](https://www.namecheap.com) (Domain Registrar)
-- ACME Cert Provider (LetsEncrypt)
-- [Certifytheweb](https://certifytheweb.com) (Cert Automation)
-
-## Hosting
-- [Heroku](https://dashboard.heroku.com) (Run many small experimental projects for fixed fee)
-
 
 
 
