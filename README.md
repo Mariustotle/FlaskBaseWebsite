@@ -4,11 +4,14 @@ This is the baseline web project, the goal with this spike/tech stack is:
 - Using tech that if needed can be scaled to meet (future) scaling needs
 - Is not low code and although starting from common scaffolding could be customized without limits
 
+Description | Location
+------------- | -------------
+Live Website | https://web-example.herokuapp.com
+Git Repo | https://github.com/Mariustotle/FlaskBaseWebsite.git
+Original Web Template | https://appseed.us/product/material-kit/flas
+
 ## Source Code
 - GitHub (Paid personal team for all projects, flat monthly rate for private repo's)
-
-## Flask Website Template
-- [AppSeed Material Kit Template](https://appseed.us/product/material-kit/flask) (Free, thanks!)
 
 ## Database (ORM)
 - SQL Alchemy (SQLLite and PostgreSQL)
