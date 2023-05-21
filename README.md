@@ -18,9 +18,9 @@ This is the baseline web project, the goal with this spike/tech stack is:
 - Github Actions
 
 ## Certificates
-- Namescheap (Domain Registrar)
+- [Namecheap](https://www.namecheap.com) (Domain Registrar)
 - ACME Cert Provider (LetsEncrypt)
-- Certifytheweb (Cert Automation)
+- [Certifytheweb](https://certifytheweb.com) (Cert Automation)
 
 ## Hosting
-- Heroku (Run many small experimental projects for fixed fee)
+- [Heroku](https://dashboard.heroku.com) (Run many small experimental projects for fixed fee)
