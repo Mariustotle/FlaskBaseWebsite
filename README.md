@@ -24,3 +24,7 @@ This is the baseline web project, the goal with this spike/tech stack is:
 
 ## Hosting
 - [Heroku](https://dashboard.heroku.com) (Run many small experimental projects for fixed fee)
+
+
+
+[![CI/CD Pipeline](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml/badge.svg)](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml)
