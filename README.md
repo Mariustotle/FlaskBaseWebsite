@@ -1,5 +1,9 @@
 # FlaskBaseWebsite
 This is the baseline web project, the goal with this spike/tech stack is:
+
+
+[![CI/CD Pipeline](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml/badge.svg)](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml)
+
 - Creating and maintianing various community projects at a low cost
 - Using tech that if needed can be scaled to meet (future) scaling needs
 - Is not low code and although starting from common scaffolding could be customized without limits
@@ -19,9 +23,6 @@ Project Wiki | https://github.com/Mariustotle/FlaskBaseWebsite/wiki
 - [Namecheap](https://www.namecheap.com) (Domain Registrar)
 - [Certifytheweb](https://certifytheweb.com) + [ZeroSSL](https://app.zerossl.com) (Cert Automation)
 - [Heroku](https://dashboard.heroku.com) (Hosting)
-
-
-[![CI/CD Pipeline](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml/badge.svg)](https://github.com/Mariustotle/FlaskBaseWebsite/actions/workflows/deploy-on-change.yml)
 
 
 
